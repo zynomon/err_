@@ -182,7 +182,7 @@ If you encounter any more issues then consider pulling an issue tab  or joining 
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the LICENSE file for details.
+This project is licensed under the **apache License** - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
