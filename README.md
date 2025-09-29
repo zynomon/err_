@@ -1,7 +1,7 @@
-# err_  - A System Dashboard
+# err_  - A linux based System Dashboard
 
 
-System Dashboard for error.os
+System Dashboard for only debian based distro [error.os](https://zynomon.github.io/error) 
 
 
 > **A lightweight system utility application only made for error.os you can customize to fit your own operating system** 
