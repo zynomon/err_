@@ -1,4 +1,5 @@
-https://github.com/zynomon/err_/blob/main/images/image-from-v1.png
+<img width="898" height="625" alt="image" src="https://github.com/user-attachments/assets/7438f304-3151-4940-a158-431af3b88893" />
+
 
 # err_  - A linux based System Dashboard
 
