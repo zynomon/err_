@@ -1,3 +1,5 @@
+https://github.com/zynomon/err_/blob/main/images/image-from-v1.png
+
 # err_  - A linux based System Dashboard
 
 
