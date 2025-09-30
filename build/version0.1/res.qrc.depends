@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>er.svgz</file>
-        <file>error.os.svgz</file>
-        <file>err_.svgz</file>
-    </qresource>
-</RCC>

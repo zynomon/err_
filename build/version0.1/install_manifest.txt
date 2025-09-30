@@ -1,2 +1,0 @@
-/usr/bin/err_
-/usr/share/applications/err_.desktop
