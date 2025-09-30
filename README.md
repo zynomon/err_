@@ -1,4 +1,5 @@
-<img width="898" height="625" alt="image" src="https://github.com/user-attachments/assets/7438f304-3151-4940-a158-431af3b88893" />
+<img width="899" height="634" alt="image" src="https://github.com/user-attachments/assets/98b651d4-3f9d-46fd-9d13-965f7cb82614" />
+
 
 
 # err_  - A linux based System Dashboard
@@ -41,7 +42,7 @@ System Dashboard for only debian based distro [error.os](https://zynomon.github.
 - **Professional progress dialogs**
 
 ## 🖥️ Interface
-  ( kind of looks like this) 
+  ( kind of looks like this for cli users ) 
 ```
 ┌─────────────────────────────────────────────────┐
 │ err_ - System Dashboard                         │
@@ -52,10 +53,10 @@ System Dashboard for only debian based distro [error.os](https://zynomon.github.
 │                                                 │
 │  ┌─ System Information ──┐  ┌─ Logo ─┐          │
 │  │ OS: Debian GNU/Linux  │  │        │          │
-│  │ CPU: x86_64          │  │  [◉◉]  │          │
-│  │ RAM: 8192 MB         │  │        │          │
-│  │ Storage: 256 GB      │  │        │          │
-│  └──────────────────────┘  └────────┘          │
+│  │ CPU: x86_64           │  │  [◉◉] │          │
+│  │ RAM: 8192 MB          │  │        │          │
+│  │ Storage: 256 GB       │  │        │          │
+│  └───────────────────────┘  └────────┘          │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -74,7 +75,10 @@ sudo apt install qt6-base-dev qt6-tools-dev cmake build-essential
 
 ## 🚀 Installation
 
-### Building from Source
+### 🔗 to simply Download on debian and ubuntu based distro (.deb)
+[Download err_](https://github.com/zynomon/err_/raw/old-versions-zipped/.deb/err_0.3.deb)
+
+### Building from Source (advanced)
 ```bash
 # Clone the repository
 git clone https://github.com/your-org/err_.git
@@ -196,6 +200,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For support and bug reports, please create an issue in the repository.
 
 ---
+
+
 
 ```
 Built for error.os
