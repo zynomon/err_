@@ -43,7 +43,7 @@ System Dashboard for only debian based distro [error.os](https://zynomon.github.
 - **Professional progress dialogs**
 
 ## 🖥️ Interface
-  ( kind of looks like this for cli users ) 
+  ( kind of looks like this , - for  gh cli users to understand who can't see images ) 
 ```
 ┌─────────────────────────────────────────────────┐
 │ err_ - System Dashboard                         │
