@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>txtlogo.svgz</file>
+        <file>error.os.svgz</file>
+    </qresource>
+</RCC>

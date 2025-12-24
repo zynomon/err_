@@ -1,0 +1,3 @@
+/usr/bin/err_
+/usr/share/applications/err_.desktop
+/usr/share/icons/hicolor/scalable/apps/err_.svg
