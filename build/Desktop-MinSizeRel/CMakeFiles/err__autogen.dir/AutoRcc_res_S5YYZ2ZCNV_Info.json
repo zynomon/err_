@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/user/err_/build/Desktop-MinSizeRel/err__autogen",
+	"CMAKE_BINARY_DIR" : "/home/user/err_/build/Desktop-MinSizeRel",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/user/err_/build/Desktop-MinSizeRel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/user/err_",
+	"CMAKE_SOURCE_DIR" : "/home/user/err_",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/user/err_/build/Desktop-MinSizeRel/err__autogen/include",
+	"INPUTS" : 
+	[
+		"/home/user/err_/Resources/error.os.svgz",
+		"/home/user/err_/Resources/txtlogo.svgz"
+	],
+	"LOCK_FILE" : "/home/user/err_/build/Desktop-MinSizeRel/CMakeFiles/err__autogen.dir/AutoRcc_res_S5YYZ2ZCNV_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "S5YYZ2ZCNV",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/user/err_/build/Desktop-MinSizeRel/CMakeFiles/err__autogen.dir/AutoRcc_res_S5YYZ2ZCNV_Used.txt",
+	"SOURCE" : "/home/user/err_/Resources/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

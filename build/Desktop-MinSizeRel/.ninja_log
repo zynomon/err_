@@ -1,0 +1,11 @@
+# ninja log v6
+2	7505	1766593578856692041	err__autogen/timestamp	2af94cf8213a5387
+2	7505	1766593578856692041	err__autogen/mocs_compilation.cpp	2af94cf8213a5387
+2	7505	1766593578856692041	/home/user/err_/build/Desktop-MinSizeRel/err__autogen/timestamp	2af94cf8213a5387
+2	7505	1766593578856692041	/home/user/err_/build/Desktop-MinSizeRel/err__autogen/mocs_compilation.cpp	2af94cf8213a5387
+7507	8283	1766593579784692013	err__autogen/S5YYZ2ZCNV/qrc_res.cpp	44861469568d07f7
+7507	8283	1766593579784692013	/home/user/err_/build/Desktop-MinSizeRel/err__autogen/S5YYZ2ZCNV/qrc_res.cpp	44861469568d07f7
+8283	8694	1766593579796692013	CMakeFiles/err_.dir/err__autogen/mocs_compilation.cpp.o	6ff711555c1ed2c7
+8694	15409	1766593580204692001	CMakeFiles/err_.dir/err__autogen/S5YYZ2ZCNV/qrc_res.cpp.o	657e8560873bf1da
+8286	36158	1766593579800692013	CMakeFiles/err_.dir/main.cpp.o	c29763ca3c1e2956
+36158	36919	1766593607672691179	err_	69af7598c8736641
