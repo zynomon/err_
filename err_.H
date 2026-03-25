@@ -1,0 +1,47 @@
+#ifndef ERR__H
+#define ERR__H
+
+#include <QApplication>
+#include <QClipboard>
+#include <QComboBox>
+#include <QCompleter>
+#include <QDateTime>
+#include <QDialog>
+#include <QDir>
+#include <QFile>
+#include <QFileDialog>
+#include <QFont>
+#include <QFrame>
+#include <QGraphicsDropShadowEffect>
+#include <QGroupBox>
+#include <QGuiApplication>
+#include <QHBoxLayout>
+#include <QIcon>
+#include <QKeyEvent>
+#include <QLabel>
+#include <QLineEdit>
+#include <QListWidget>
+#include <QListWidgetItem>
+#include <QMainWindow>
+#include <QMessageBox>
+#include <QMouseEvent>
+#include <QObject>
+#include <QPainter>
+#include <QPixmap>
+#include <QProcess>
+#include <QPushButton>
+#include <QRandomGenerator>
+#include <QScrollArea>
+#include <QStandardPaths>
+#include <QStorageInfo>
+#include <QSysInfo>
+#include <QTabWidget>
+#include <QTextEdit>
+#include <QTextStream>
+#include <QThread>
+#include <QTimer>
+#include <QVBoxLayout>
+#include <algorithm>
+#include <QWidget>
+
+#endif // ERR__H
